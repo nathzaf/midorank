@@ -1,0 +1,4 @@
+Nada|Karim|Jules
+Nathan|Claire|Julie
+Julie|Jules|Nathan|Nada|Julie
+Jules|Leonore|Nada|Claire|Nada
