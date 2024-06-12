@@ -31,5 +31,5 @@ For the normal mode : /MidoRank -n graphe.txt x
 (web.txt is a given text file, x the number of highest pages to display).
 
 
-Nathan & Claire
+Nathan Zafizara-Benetrix & Claire Watrin
 
